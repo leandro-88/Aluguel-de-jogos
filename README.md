@@ -28,4 +28,4 @@
 </div>
 
 <p>Confira o Deploy desse projeto</p>
-    <p>Confira o <a href="https://analise-palindromo.vercel.app/">aluguel de Jogos de Tabuleiro</a>.</p>
+    <p>Confira o <a href="https://alugue-de-jogos.vercel.app/">aluguel de Jogos de Tabuleiro</a>.</p>
